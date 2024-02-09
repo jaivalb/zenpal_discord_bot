@@ -1,10 +1,9 @@
 package main
 
 import (
-	"fmt"
-
 	"ZenPal/bot"
 	"ZenPal/config"
+	"fmt"
 )
 
 func main() {
